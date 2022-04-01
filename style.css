@@ -1,0 +1,28 @@
+.heading {
+    font-size: 23px;
+    width: 100%;
+    margin: 0px;
+}
+
+#status {
+    font-size: 18px;
+}
+
+body {
+    background-position: center;
+    background-size: cover;
+}
+
+canvas {
+    box-shadow: 50px 50px 50px chartreuse;
+    border-radius: 10px;
+    margin-top: 130px;
+}
+
+#number {
+    font-size: large;
+    font-family: fantasy;
+    font-style: italic;
+    font-weight: 100;
+    box-shadow: 10px 10px 10px grey;
+}
